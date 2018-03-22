@@ -21,3 +21,4 @@
 6: solve conflict
 	6.1: open file, edit and add -> commit
 	check: git log --graph --oneline
+7: this line edit by *nanh*
